@@ -1,5 +1,6 @@
 export const sculptureList = [
  {
+    id: 100 ,
     name:' วงดนตรี ',
     artist:'คณะขวัญใจ',
     description:'วงโปรดของฉัน',
@@ -7,6 +8,7 @@ export const sculptureList = [
     alt:'เป็นเพลงยุคเก่าที่บนปัจุบันชอบฟัง',
  },
  {
+   id: 200 ,
     name:' วงดนตรี ',
     artist:'Silly fools',
     description:'วงโปรดของฉัน',
@@ -14,6 +16,7 @@ export const sculptureList = [
     alt:'วงเก่าที่ยังมีอยู่ในปัจจุบันแต่เปลี่ยนนักร้องคนใหม่',
  },
  {
+   id: 300 ,
     name:' วงดนตรี ',
     artist:' Paradox ',
     description:'วงที่หลายๆคนที่รู้จักในวงการเพลง',
@@ -21,6 +24,7 @@ export const sculptureList = [
     alt:'วงที่สมัยก่อนใครๆก็ต่างรู้จัก',
  },
  {
+   id: 400 ,
     name:' การ์ตูน ',
     artist:' ยอดนักสืบจิ๋ว โคนัน ',
     description:'ถึงตัวจะเด็กแต่สมองเขาก็ผู้ใหญ่',
@@ -28,6 +32,7 @@ export const sculptureList = [
     alt:'การ์ตูนวัยเด็กที่ใครๆก็รู้จักเขาดี',
  },
 {
+   id: 500 ,
     name:' การ์ตูน ',
     artist:' ชินจัง ',
     description:'เด็กที่ทะลิ้งชอบโชว์ตูด',
@@ -35,6 +40,7 @@ export const sculptureList = [
     alt:'การ์ตูนที่อยู่อย่างยาวนานและยังมีอยู่ในปัจจุบัน',
 },
 {
+   id: 600 ,
     name:' การ์ตูน ',
     artist:' Dr.Slump-Arale Chan ',
     description:'เด็กที่ชอบจิ้มขี้เป็นชีวิตจิตใจ',
